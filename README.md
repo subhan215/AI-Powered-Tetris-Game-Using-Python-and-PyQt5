@@ -1,4 +1,3 @@
-<!-- Failed to upload "AI PROJECT VIDEO.mp4" -->
 # 🧠 Tetris Game with AI – Python + PyQt5
 
 ## 🎮 Overview
